@@ -1,0 +1,36 @@
+body {
+	color: #ffffff;
+	background-color: #222222;
+
+}
+
+img {
+	max-width: 512px;
+}
+
+.main{
+	display: flex;
+	flex-direction: column;
+	gap: 2rem;
+	max-width: fit-content;
+	margin: 0 auto;
+}
+
+table,th,td {
+	border: 1px solid #ffffff;
+}
+
+li {
+	list-style: none;
+}
+
+a {
+	color: white;
+}
+
+.err {
+	margin: 0 auto;
+	max-width: max-content;
+	padding-top: 20%;
+	font-size: 3rem;
+}
