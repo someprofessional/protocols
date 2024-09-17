@@ -12,5 +12,5 @@ Currently i want to implement them with :
     - Rust
     - Golang
     - Java
-    - Elexir
+    - Elixir
     - C
